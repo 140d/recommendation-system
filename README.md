@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation
 
 This repository implements a movie recommendation system using **Matrix Factorization (SVD)** and **Collaborative Filtering** techniques. The system predicts movie ratings for users and recommends top movies based on their preferences.
 
